@@ -1,0 +1,32 @@
+.title {
+    color: white;
+    background-color: grey;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.title h1 {
+    font-size: 100px;
+    font-weight: 650;
+}
+
+.test {
+    color: cyan;
+    border-radius: 5%;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.test:hover {
+    color: black;
+    background-color: cyan;
+}
+
+.active {
+    text-decoration: underline;
+    font-weight: 700;
+}
+
+.logout {
+    margin-right: 20px;
+}

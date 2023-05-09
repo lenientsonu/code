@@ -1,0 +1,14 @@
+.play {
+    background-color: grey;
+}
+
+.play img {
+    width: 100px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+
+.play button {
+    margin-top: 20px;
+    color: white;
+}

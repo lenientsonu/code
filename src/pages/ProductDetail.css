@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.images {
+    margin: 30px;
+    width: 400px;
+}
+
+.details {
+    flex: 1;
+    margin: 30px;
+}
+
+.details h2, .details h3 {
+    text-align: left;
+}
